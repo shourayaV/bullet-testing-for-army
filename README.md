@@ -1,1 +1,2 @@
-# bullet-testing-for-army
+# synchronousBallMovement
+Ball moving synchronously
